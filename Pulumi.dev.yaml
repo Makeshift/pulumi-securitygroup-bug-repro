@@ -1,0 +1,2 @@
+config:
+  pulumi-securitygroup-bug:vpcId: vpc-66cd2503
